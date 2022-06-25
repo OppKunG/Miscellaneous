@@ -17,7 +17,7 @@ def calculate(n, Mn, K):
 
 k = 31  # https://www.timeanddate.com/date/durationresult.html?d1=25&m1=05&y1=2022&d2=&m2=&y2=
 n = k-7
-Mn = 118968+21723
+Mn = 118968+22886
 K = 0.0025  # 1:400
 # USD 1:1.4452
 
