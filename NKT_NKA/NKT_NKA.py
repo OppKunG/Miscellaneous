@@ -19,7 +19,8 @@ k = 31  # https://www.timeanddate.com/date/durationresult.html?d1=25&m1=05&y1=20
 n = k-7
 Mn = 118968+22886
 K = 0.0025  # 1:400
-# USD 1:1.4452
+# USD 1:1.4359
+# Date: 25/6/22 23:34
 
 print('1 NKT = ', calculate(n, Mn, K))
 
